@@ -1,2 +1,84 @@
 /*font-family: Georgia, Times, "Times New Roman", serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+.sub_header{
+        font-size: x-large;
+    padding: 5px 20px;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+
+}
+/*Recipe Title*/
+h1{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    color: orange;
+    padding: 20px 0px;
+    border-bottom: orange;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    width: 430px;
+}
+
+/*Recipe Summary*/
+p{
+       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #F6F6F6;
+    padding: 20px 21px;
+    width: 340px;
+    font-weight: 900;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 1px;
+    letter-spacing: 0.5px;
+}
+
+}
+
+/*Sub-Headings*/
+h2{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 600;
+  text-decoration: underline;
+  font-size: 27px;
+  padding: 15px 20px 5px;
+  text-decoration: underline;
+}
+
+/*Lists*/
+.list{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    list-style-type: circle;
+    margin-left: 38px;
+    padding: 1px 0px;
+
+}
+
+/*Numbered List*/
+.numbered_list{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  list-style-type: decimal;
+  margin-left: 38px;
+  padding: 0px 0px;
+
+}
+
+/*List Elements*/
+li{
+        margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    margin-bottom: 2px;
+    width: 365px;
+    margin-top: 3px;
+
+}
