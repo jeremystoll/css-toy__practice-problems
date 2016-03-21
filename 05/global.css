@@ -1,2 +1,71 @@
-/*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+#intro{
+  border-bottom: #CCCCCC;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+      padding: 0px 20px 20px;
+}
+
+.festival_info{
+        padding: 10px 0px 0px 20px;
+    font-size: 14px;
+    margin: 0px 0px -1px 0px;
+
+}
+
+body{
+  width: 430px;
+
+}
+
+h1{
+  font-family: Impact, "Haettenschweiler", "Franklin Gothic Bold", "Charcoal", "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+  text-align: center;
+  background: #85277D;
+  border-bottom: #C839BC;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  color: white;
+  padding: 20px 0px;
+  font-size: 30px;
+
+}
+
+h2{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  background: #333333;
+  color: white;
+      font-size: 20px;
+        padding: 20px 0px 9px 0px;
+
+}
+
+h3{
+      font-family: Impact, "Haettenschweiler", "Franklin Gothic Bold", "Charcoal", "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+    background: #333333;
+    color: white;
+    text-decoration: underline;
+    padding: 20px 0px 0px 20px;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+p{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #333333;
+  color: white;
+}
+
+a{
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: black;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-decoration: initial;
+    padding: 0px 4px 0px 0px;
+    display: inline;
+    margin: 0px 0px 0px 23px;
+
+}
+
